@@ -1,5 +1,5 @@
 ---
-コンフィグバージョン(編集禁止): "0.1"
-参加時にプレイヤーの情報を表示する(true or false): "false"
-UBan時にプレイヤーの情報を表示する(true or false): "false"
+Configuration version (editing prohibited): "0.1"
+Display player information at participation (true or false): "false"
+Display information of player at UBan (true or false): "false"
 ...
